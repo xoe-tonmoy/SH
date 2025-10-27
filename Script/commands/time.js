@@ -45,7 +45,7 @@ module.exports.run = async function({ api, event }) {
 
 ⏱️ 𝗕𝗼𝘁 𝗨𝗽𝘁𝗶𝗺𝗲: ${hours} hour(s), ${minutes} minute(s), ${seconds} second(s)
 
-💠𝗕𝗢𝗧 𝗔𝗗𝗠𝗜𝗡 𝗦𝗔𝗛𝗔𝗗𝗔𝗧~𝗦𝗔𝗛𝗨💠
+💠𝗕𝗢𝗧 𝗔𝗗𝗠𝗜𝗡 𝐓𝐨𝐧𝐦𝐨𝐘 💠
 
 
 ¶────██████────¶
@@ -63,7 +63,7 @@ module.exports.run = async function({ api, event }) {
 ¶────◥████◤────¶
 ¶─────◥██◤─────¶
 
-🌟 ─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭 🌟`;
+🌟 ─꯭─⃝‌‌𝐓𝐨𝐧𝐦𝐨𝐘 𝐓𝐡𝐞 𝐁𝐨𝐭 🌟`;
 
  const callback = () => {
  api.sendMessage({
